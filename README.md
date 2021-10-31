@@ -19,3 +19,4 @@ The purpose of this challenge was to see the earthquake data in relation to the 
 
 ![img](https://github.com/Edgarhv/Mapping_Earthquakes/blob/186c80171a3842ef184099ba4146bc07538ce5db/Earthquake_Challenge/static/img/Delivery%201.png)
 ![img](https://github.com/Edgarhv/Mapping_Earthquakes/blob/5a9cbf192fef214bf43eb5f5701fe7da2f0c8ef5/Earthquake_Challenge/static/img/Delivery%202.png)
+![img](https://github.com/Edgarhv/Mapping_Earthquakes/blob/3bd06ebe9a889b4c56beecff5d0b10cacd538633/Earthquake_Challenge/static/img/Delivery%203.png)
