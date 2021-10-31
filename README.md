@@ -13,3 +13,6 @@ The purpose of this challenge was to see the earthquake data in relation to the 
 - D3 library
 - Leaflet library
 - Mapbox API (GeoJSON)
+
+
+# Results
