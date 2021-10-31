@@ -6,3 +6,10 @@
 # Porpuse
 
 The purpose of this challenge was to see the earthquake data in relation to the location of the tectonic plates on the earth.
+
+# Resources
+
+- JavaScript
+- D3 library
+- Leaflet library
+- Mapbox API (GeoJSON)
