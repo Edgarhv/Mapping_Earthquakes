@@ -16,3 +16,5 @@ The purpose of this challenge was to see the earthquake data in relation to the 
 
 
 # Results
+
+![img](https://github.com/Edgarhv/Mapping_Earthquakes/blob/186c80171a3842ef184099ba4146bc07538ce5db/Earthquake_Challenge/static/img/Delivery%201.png)
